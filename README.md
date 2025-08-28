@@ -1,12 +1,18 @@
 Mini Rajesh - Business Analytics Portfolio
+
 👋 Welcome to my data analytics portfolio! I'm a Business Analytics graduate with 3+ years of experience in statistical analysis, data mining, and visualization.
 
 
 🎯 About Me
+
 📊 Current Role: Business Analyst (Data-Focused) at ICS Global Soft, Inc.
+
 🎓 Education: MS in Business Analytics from Trine University (2024) | GPA: 3.7/4.0
+
 📍 Location: Plano, TX
+
 💼 LinkedIn: linkedin.com/in/mini-rajesh-28a430308
+
 📧 Email: minirajsh.2000@gmail.com
 
 
