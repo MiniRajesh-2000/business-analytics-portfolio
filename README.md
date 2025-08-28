@@ -30,7 +30,7 @@ Built predictive model using Python and Scikit-learn
 Achieved 85% accuracy in identifying at-risk customers
 Developed targeted retention strategies based on model insights
 Tools: Python, Pandas, Scikit-learn, Tableau
-📁 Repository: customer-churn-prediction
+📁 Repository: [customer-churn-prediction](https://github.com/MiniRajesh-2000/customer-churn-prediction)
 
 
 3. Sales Forecasting & Trend Analysis
@@ -39,7 +39,7 @@ Developed time series forecasting models for inventory optimization
 Created interactive dashboards for sales performance tracking
 Improved inventory planning accuracy through predictive analytics
 Tools: R, ggplot2, Power BI, SQL
-📁 Repository: sales-forecasting-analysis
+📁 Repository: [sales-forecasting-analysis](https://github.com/MiniRajesh-2000/sales-forecasting-analysis)
 
 
 4. Big Data Customer Segmentation
@@ -48,7 +48,7 @@ Analyzed large customer datasets using Hadoop and Spark
 Implemented machine learning clustering techniques
 Created actionable customer personas for marketing teams
 Tools: Python, Spark, Hadoop, Machine Learning Libraries
-📁 Repository: customer-segmentation-bigdata
+📁 Repository: [customer-segmentation-bigdata](https://github.com/MiniRajesh-2000/customer-segmentation-bigdata)
 
 
 📊 Current Focus
